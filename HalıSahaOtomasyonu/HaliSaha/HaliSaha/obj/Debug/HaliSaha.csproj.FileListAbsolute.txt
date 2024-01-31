@@ -1,0 +1,194 @@
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form1.resources
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe.licenses
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM\Bankamatik\Bankamatik\obj\Debug\Bankamatik.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(3)\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\Bankamatik\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(7)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.İstatistik.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(8)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.İstatistik.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(9)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.İstatistik.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(10)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.İstatistik.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\ATM - Kopya(11)\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\HalıSahaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Form1.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.SifremiUnuttum.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.İstatistik.resources
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe.licenses
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HaliSaha.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\ATM YEDEK\HalıSahaOtomasyonu\HaliSaha\HaliSaha\obj\Debug\HalıSahaOtomasyonu.pdb
