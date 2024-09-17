@@ -32,3 +32,6 @@ Bu adımlar, projeyi yerel makinenizde çalıştırmanız için gereklidir:
 ## Projeden Görseller
 ![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/GirisEkrani.png)
 ![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/KarsilamaEkrani.png)
+![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/%C4%B0statistik.png)
+![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/Giris_Tablo.png)
+![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/Tablo_Otomasyon.png)
