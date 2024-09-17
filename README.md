@@ -28,3 +28,6 @@ Bu adımlar, projeyi yerel makinenizde çalıştırmanız için gereklidir:
 3. **Database Bağlantısını Kontrol Edin**: Eğer projeyi çalıştırdığınızda SQL hatası alıyorsanız, bu genellikle SQL'e bağlandığınız bilgisayar isminin proje database yolunda görünmemesinden kaynaklanır. Bu sorunu çözmek için, proje dosyaları içerisindeki database bağlantılarında bulunan "Source=." kısmındaki noktayı, SQL Management Studio'ya bağlandığınız isim ile değiştirin.
 
 4. **Bunifu Framework Üyeliği**: Projedeki form ekranlarının görünmesi için Bunifu Framework'ten üyelik almanız gerekmektedir. (14 gün ücretsiz deneme süresi mevcuttur.) Üyelik sonrası mail adresinize gönderilen lisans anahtarı ile form ekranlarını dilediğiniz gibi kontrol edebilirsiniz.
+
+## Projeden Görseller
+![Uygulama Ekran Görüntüsü](https://github.com/yusufaytasss/Hali-Saha-Otomasyonu/blob/main/GirisEkrani.png)
